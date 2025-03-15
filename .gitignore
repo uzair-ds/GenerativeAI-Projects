@@ -1,0 +1,206 @@
+# Compiled source #
+###################
+*.com
+*.exe
+*.dll
+*.obj
+*.o
+*.a
+*.so
+*.dylib
+*.class
+*.pyc
+*.pyo
+*.egg-info/
+__pycache__/
+*.csproj.user
+*.sln.user
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.filters
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+*.sqlite-*
+*.ldb
+*.mdf
+*.ldf
+*.dump
+
+# Runtime data #
+##################
+*.tmp
+*.swp
+*.bak
+*.gid
+*.pid
+*.seed
+*.toc
+*.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+[Tt]humbs.db:encryptable
+*.stackdump
+*.cab
+*.rdb
+*.part
+*.swo
+*.orig
+*.py[cod]
+
+# Package managers #
+####################
+# npm
+node_modules/
+package-lock.json
+yarn-error.log
+
+# Python
+env/
+venv/
+.venv/
+.env
+.venv
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info
+
+# Composer
+vendor/
+composer.lock
+
+# Gradle
+.gradle/
+build/
+out/
+
+# Maven
+target/
+!**/src/main/webapp/WEB-INF/lib/
+
+# Go modules
+bin/
+pkg/
+go.sum
+go.mod
+
+# Rust
+/target/
+/Cargo.lock
+
+# Environments #
+################
+.env*
+!.env.example
+!.env.template
+
+# OS generated files #
+######################
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Temporary files created by text editors #
+#########################################
+*~
+# Visual Studio Code User Settings
+settings.json
+launch.json
+tasks.json
+
+# Netbeans
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/scopes/
+.idea/shelf/
+.idea/artifacts/
+.idea/caches/
+.idea/httpRequests/
+.idea/markdown/
+.idea/runConfigurations/
+.idea/sonarlint/
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/copyright/profiles_settings.xml
+.idea/inspectionProfiles/
+.idea/compiler.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/deploymentTargetDropDown.xml
+
+# Emacs
+*~
+\#*\#
+.emacs.desktop
+.emacs.desktop.lock
+*.elc
+auto-save-list/
+tramp/
+.projectile
+
+# Vim
+*.swp
+*.swo
+*.swn
+*.sza
+*.un~
+*.vm
+*.netrwhist
+*.backup
+
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Office Temp Files
+~$*
+
+# Kubernetes
+.kube/
+*.kubeconfig
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*.tfvars
+*.tfvars.json
