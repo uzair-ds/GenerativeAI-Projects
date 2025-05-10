@@ -204,3 +204,6 @@ override.tf
 override.tf.json
 *.tfvars
 *.tfvars.json
+*.lock
+*.toml
+.env
